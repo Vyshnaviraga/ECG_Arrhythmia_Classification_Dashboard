@@ -6,3 +6,4 @@ plotly
 scikit-learn
 joblib
 h5py
+seaborn
