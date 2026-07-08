@@ -1,0 +1,8 @@
+app_backup.py
+rf_model.pkl
+mitbih_train.csv
+ptbdb_normal.csv
+ptbdb_abnormal.csv
+__pycache__/
+.DS_Store
+.streamlit/
